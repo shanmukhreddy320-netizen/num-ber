@@ -52,8 +52,8 @@ def _health():
 
 # ==================== CONFIG SECTION ====================
 
-BOT_TOKEN = "8981336519:AAGLkA3lr5ulechb12Qr72jis3F8Grr7dnU"
-API_KEY = "A39DXARA0KJ"
+BOT_TOKEN = "9146362932:AAGK7HZMmcUXVJQ4dex3tFqbHGQTc-aiIec"
+API_KEY = "QRIAAISZL1A"
 BASE_URL = "https://api.zebrasms.com/api/v1"           # আপনার প্যানেল ডোমেন (trailing slash ছাড়া)
 USER_DATA_FILE = "users.json"
 PAID_SMS_FILE = "paid_sms.json"
@@ -65,9 +65,9 @@ ACTIVITY_LOGS_FILE = "activity_logs.json"
 DATA_RANGE_FILE = "datarange.json"
 SETTINGS_FILE = "settings.json"
 # ==================== MULTIPLE ADMINS CONFIGURATION ====================
-ADMINS = [7647858886]
+ADMINS = [7157043085]
 
-OTP_GROUP_ID = -1004416480572
+OTP_GROUP_ID = -5367246563
 
 # ==================== PREMIUM EMOJI SETUP ====================
 PREMIUM_EMOJIS = {
